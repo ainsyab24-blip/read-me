@@ -7,4 +7,4 @@ A hands-on repository for IKB21403 Vulnerability Analysis. Students will find la
 | Item | Week | URL |
 | :--- | :---: | :--- |
 | Threat VS Vulnerability | Week 2 | [View File](W1-THREAT-VS-VULNERABILITY.md) |
-| My PDF Document | Week 3 | [View File](my-document.pdf) |
+| Bluemoon | Week 3 | [View File](VA(Bluemoon).pdf) |
